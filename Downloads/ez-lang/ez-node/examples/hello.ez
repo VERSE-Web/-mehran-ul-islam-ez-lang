@@ -1,0 +1,5 @@
+function "Hello" = {
+    print.console("Hello! world")
+}
+
+Hello
