@@ -1,6 +1,6 @@
 {
   "name": "@mehran-ul-islam/ez-lang",
-  "version": "0.4.0-development",
+  "version": "0.4.0-development.0",
   "description": "Ez - a JS/Python-flavored scripting language that runs on Node",
   "main": "index.js",
   "bin": {
