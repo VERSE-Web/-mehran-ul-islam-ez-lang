@@ -1,7 +1,0 @@
-let res = get("https://pypi.org/pypi/requests/json")
-print.console("ok:")
-print.console(res.ok)
-print.console("status:")
-print.console(res.status)
-print.console("name from JSON:")
-print.console(res.data.info.name)
