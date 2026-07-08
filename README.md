@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ez
 
 A small scripting language that blends JS-style braces with Python-style `def`-ish
