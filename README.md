@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ez
 
 A small scripting language that blends JS-style braces with Python-style `def`-ish
@@ -175,3 +176,7 @@ See `browser/example.html` for a full working page with this pattern.
   parsed JSON — there's no `{ key: value }` literal syntax yet.
 - No module/import system yet for splitting a project across multiple `.ez`
   files.
+=======
+"# A08-API-NO1" 
+"# A08-API-NO1" 
+>>>>>>> 50738e39b65d9d58ec9a1cec406b6c457f06e3f3
