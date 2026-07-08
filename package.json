@@ -1,6 +1,6 @@
 {
   "name": "@mehran-ul-islam/ez-lang",
-  "version": "0.4.0",
+  "version": "0.4.0-development",
   "description": "Ez - a JS/Python-flavored scripting language that runs on Node",
   "main": "index.js",
   "bin": {
@@ -30,15 +30,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB_USERNAME/ez-lang.git"
+    "url": "git+https://github.com/VERSE-Web/-mehran-ul-islam-ez-lang.git"
   },
-  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/ez-lang#readme",
+  "homepage": "https://github.com/VERSE-Web/-mehran-ul-islam-ez-lang/blob/main/README.md",
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/ez-lang/issues"
+    "url": "https://github.com/VERSE-Web/-mehran-ul-islam-ez-lang/issues"
   },
   "author": "Mehran",
   "engines": {
     "node": ">=18"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
